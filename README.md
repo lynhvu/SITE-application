@@ -46,10 +46,12 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 Website color in css
 https://www.shutterstock.com/blog/psychological-color-palettes?kw=&amp=1&c3apidt=71700000027388020&gclsrc=aw.ds&gclid=CjwKCAjwuYWSBhByEiwAKd_n_oMly9Fjk7d8uONwKLgnhbiGsyg_HrfcdumRqjKMl15_-4Ow-m6yjRoCH20QAvD_BwE
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
 While I was working on the project, there was one difficult problem that I encountered. 
 It was the part where I was required to write the logic to make the code run in the 
 JavaScript file. Since there were no step by step instructions here anymore like other 
@@ -67,6 +69,7 @@ hard time trying to solve the challenge again.
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 After finishing the project, I have numerous questions about web development. First
 of all, I wonder how I would be able to use databases such as MongoDB to expand the
 project. For instance, I want to have a database to store the players' score and time,
@@ -78,6 +81,7 @@ website builders out there, and those web builders get improved everyday. What i
 web builders can also support the dynamic logic to the website?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 I have so many ideas that I wanted to work on if I had more time on this project. First,
 I want to make a leaderboard. To do that, I think I would have to add the feature that
 can time the players and a basic database to store the result and display the best one. 
