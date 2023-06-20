@@ -38,7 +38,6 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](https://i.imgur.com/z1w0Anq.gif)
 ![](https://i.imgur.com/llYgt6s.gif)
 
@@ -89,11 +88,6 @@ Second, I want to create a level of hardness. The players can choose the number 
 and the speed they want to play. Other than that, I also want to create a feature which
 will let the players choose the theme of colors they want to see on display. 
 
-
-
-## Interview Recording URL Link
-
-https://utexas.zoom.us/rec/share/Pf8wfUEzQawTgrVygLSUwKBLetyxHu0mvezB_dq_9bo1N1-SN_-BVuJyZQD3gVfY.vsmzCxHbaIwQ-veg?startTime=1648873928000
 
 
 ## License
